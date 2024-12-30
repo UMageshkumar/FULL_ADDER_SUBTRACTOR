@@ -1,5 +1,5 @@
-# NAME:U.MAGESHKUMAR
-# REGNO:24005417
+### NAME:U.MAGESHKUMAR
+### REGNO:24005417
 # EXPNO-4:FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
